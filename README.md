@@ -1,1 +1,1 @@
-# senior-proj-journal
+# Personal Journal - Senior Project 
